@@ -1,6 +1,5 @@
 # MyBookList
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/26ff9d4f-fd7f-42bb-9e6c-4910e522afea/deploy-status)](https://app.netlify.com/sites/epic-swanson-2e7bf6/deploys)
 
 Simple book tracking app built with vanilla Javascript. List is stored in LocalStorage.
 
@@ -11,6 +10,7 @@ Features
 
 [Live demo](https://epic-swanson-2e7bf6.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/26ff9d4f-fd7f-42bb-9e6c-4910e522afea/deploy-status)](https://app.netlify.com/sites/epic-swanson-2e7bf6/deploys)
 ## Installation
 
 n/a
